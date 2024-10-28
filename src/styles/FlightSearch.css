@@ -1,0 +1,13 @@
+.flight-search-container{
+    display: flex;
+    width: 40%;
+    border: 1px solid black;
+    margin: 16px;
+    padding: 18px;
+}
+.flight-search-item{
+    padding: 22px;
+}
+.flight-search-item input{
+    
+}

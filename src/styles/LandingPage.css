@@ -1,0 +1,14 @@
+.landing-page{
+    margin-left: 2rem;
+}
+.landing-page h1{
+
+}
+.landing-page button{
+    padding: 9px;
+    font-size: 16px;
+    background-color: white;
+    color: rebeccapurple;
+    border: 1px solid rebeccapurple;
+    border-radius: 6px;
+}
