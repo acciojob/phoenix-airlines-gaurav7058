@@ -56,7 +56,9 @@ export default function FlightSearch() {
           <div className="dropdown">
             {filteredCities.map((city, index) => (
               <div key={index} onClick={() => selectCity(city)} className="dropdown-item">
-                {city}
+                <ul>
+                  <li>{city}</li>
+                </ul>
               </div>
             ))}
           </div>
